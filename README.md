@@ -6,8 +6,8 @@
 
 🇳🇬 x 🇬🇭 I was born in Ghana but I’m proudly Nigerian. I am strongly interested in AI/Machine Learning, Web development, and Software development. 
 
-📚 I’ve been coding since high school, using languages like Python, Java, JavaScript, CSS, HTML, and C. I also use creative tools like Adobe Photoshop, InDesign, Illustrator, and Figma for various projects and designs.
-Right now, I’m a fellow at the AI4Good Lab. Here, I’m improving my skills in defining problems, preparing data, and choosing models. This experience is enhancing my technical skills and allowing me to make a meaningful contribution to the AI field.
+📚 I love to use languages like Python, Java, JavaScript, CSS, HTML, and C. I also use creative tools like Adobe Photoshop, InDesign, Illustrator, and Figma for various projects and designs.
+Right now, I was a fellow at the AI4Good Lab where I worked on improving my skills in defining problems, preparing data, and choosing models. This experience enhanced my technical skills and allowing me to make a meaningful contribution to the AI field.
 
 💻 In the future, I hope to work in software development or AI/machine learning. I’m also very motivated to develop tools and technologies that use AI for positive social impact.
 
