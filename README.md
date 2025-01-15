@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 I'm currently working on Survival Prediction in Urethoplasty using AI/ML models.<br>🎓 I'm a 2nd Year Computing Science student at the University of Alberta.<br>📹 I enjoy drawing, watching football (I support Arsenal, and yes I know we don't have a CL trophy), cooking/baking, making vlogs and taking photos.<br>💻 In the future, I hope to work in software development or AI/machine learning. I’m also very motivated to develop tools <br>and technologies that use AI for positive social impact.
+🌟 I'm currently working on Survival Prediction in Urethoplasty using AI/ML models.<br>🎓 I'm a 3rd Year Computing Science student at the University of Alberta.<br>📹 I enjoy drawing, watching football (I support Arsenal, and yes I know we don't have a CL trophy), cooking/baking, making vlogs and taking photos.<br>💻 In the future, I hope to work in software development or AI/machine learning. I’m also very motivated to develop tools <br>and technologies that use AI for positive social impact.
 
 
 ## 🌐 Socials:
